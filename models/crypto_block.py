@@ -8,4 +8,4 @@ class Block(models.Model):
     keypair_path = fields.Char()
     active = fields.Boolean('Active?', default=True)
     date_generated = fields.Date()
-    choosen_file = fields.Many2one('Choose file to sign')
+    chosen_file = fields.Many2one('Choose file to sign')
