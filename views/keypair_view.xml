@@ -8,8 +8,6 @@
     <header>
       <button name="button_sign_file" type="object"
           string="Sign file" />
-    </header>
-    <header>
       <button name="button_choose_file" type="object"
           string="Choose file" />
     </header>
