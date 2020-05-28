@@ -14,8 +14,7 @@
     <sheet>
         <group>
           <field name="keypair_name"/>
-          <field name="active" />
-          #<field name="chosen_file" />
+          <field name="active" />          
         </group>
     </sheet>
       </form>
